@@ -11,7 +11,9 @@ const nextConfig: NextConfig = {
         hostname: 'raw.githubusercontent.com',
       },
     ],
-  }
+  },
+
+  output: "export",
 };
 
 export default nextConfig;
