@@ -1,6 +1,12 @@
 2025/1/26に参加したハンズオンで作ったやつ
 https://beginner-react.connpass.com/event/342807/
 
+
+```
+# npm run devでうまく開発サーバーが起動しない場合、プロジェクトのあるディレクトリ以下で以下コマンド実行
+npm install
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
